@@ -41,7 +41,7 @@ const jumbotronLanding = {
 
 const cardLanding = [
     {
-        imagenCard:"/workspaces/Landing-Page-con-React-ManulPrian/src/imagenes/blink-182.jpg",
+        imagenCard:"https://thisisrock.es/web2020/wp-content/uploads/2023/10/Blink-182.png",
         tituloCard:"BLINK-182",
         descripcionCard:"Conocidos por su estilo de pop punk, Blink-182 es famoso por sus letras ingeniosas y pegajosas, así como por su energía en el escenario. Canciones como All the Small Things y What's My Age Again? los catapultaron a la fama en la década de 1990 y los convirtieron en una de las bandas más influyentes del género.",
         botonCard:"Mi Favorito"
