@@ -1,12 +1,38 @@
-
-/* 
-
-    You can write your own styles here...
+body{
+    height: 100%;
+}
+div.text-center {
+    background: rgb(0, 0, 0);
+}
+nav.navbar{
+    background: black;
+}
+div.jumbotron {
+    background: url(https://miro.medium.com/v2/resize:fit:1192/1*8DRgnWi4voYMqjb4cIy8Zg.jpeg);
+    color: aqua;
+}
+h1.display-4 {
+    background: black;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+p.lead{
+    background: black;
+}
+p {
+    background: black;
+}
+img.mt-2 {
+    margin-left: 80px;
+}
+div.card {
+    background: black;
+    color: aqua;
+}
+nav.navbar.navbar-expand-lg {
+    background: url(https://miro.medium.com/v2/resize:fit:1192/1*8DRgnWi4voYMqjb4cIy8Zg.jpeg);
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+}
+a.nav-link.avtive{
+    background: black;
+}
